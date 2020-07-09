@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**PatilShreyas/PatilShreyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎍 Welcome to my hub 👨‍💻
 
-Here are some ideas to get you started:
+- 21 year old Information Technology Engineering Undergrad student 👨‍🎓.
+- ***#SelfTaught*** Developer 👨‍💻.
+- Mobile App developer 📱.
+- ❤️Android ❤️Kotlin 🔥Firebase!
+- Loves 🎵.
+- Proud 🇮🇳.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### You can reach me https://shreyaspatil.dev
