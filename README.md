@@ -6,7 +6,7 @@
 - ***#SelfTaught*** Developer 👨‍💻.
 - Mobile App developer 📱.
 - ❤️Android ❤️Kotlin 🔥Firebase!
-- Loves 🎵.
+- Loves 🎵 while coding.
 - Proud 🇮🇳.
 
 ---
