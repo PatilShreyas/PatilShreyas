@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hi there👋! I'm Shreyas 🙋‍♂️
 
 #### 🎍 Welcome to my hub 👨‍💻
 
-- 21 year old Information Technology Engineering Undergrad student 👨‍🎓.
-- ***#SelfTaught*** Developer 👨‍💻.
-- Mobile App developer 📱.
-- ❤️Android ❤️Kotlin 🔥Firebase!
-- Loves 🎵 while coding.
+- 👨‍🎓 21 year old Information Technology Engineering Undergrad student.
+- 👨‍💻 ***#SelfTaught*** Developer.
+- 📱 Mobile App developer.
+- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
+- 🌐 Little bit exploring Web development too.
+- ✍️ Write stuff on [Medium](https://medium.com/@patilshreyas).
+- Loves 🎵 and 🎹.
 - Proud 🇮🇳.
 
 ---
 
-#### You can reach me https://shreyaspatil.dev
+#### 🔗 Know more about me here: [shreyaspatil.dev](https://shreyaspatil.dev)
