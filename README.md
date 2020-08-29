@@ -1,4 +1,9 @@
-### Hi there👋! I'm Shreyas 🙋‍♂️
+
+<p align="center">
+  <img src="welcome.png" height="200" />
+</p>
+
+# Hi there👋! I'm Shreyas 🙋‍♂️
 
 #### 🎍 Welcome to my hub 👨‍💻
 
@@ -10,6 +15,8 @@
 - ✍️ Write stuff on [Medium](https://medium.com/@patilshreyas).
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=patilshreyas&count_private=true&show_icons=true&include_all_commits=true)
 
 ---
 
