@@ -14,7 +14,7 @@
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
 - 🌐 Little bit exploring Web development too.
-- ✍️ Write stuff on [Medium](https://medium.com/@patilshreyas).
+- ✍️ Write blogs on [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev).
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
 
