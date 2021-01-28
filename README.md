@@ -7,6 +7,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/PatilShreyas)
 
+
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
+
 #### 🎍 Welcome to my hub 👨‍💻
 
 - 👨‍🎓 21 year old Information Technology Engineering Undergrad student.
