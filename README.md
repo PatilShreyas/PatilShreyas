@@ -10,7 +10,7 @@
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
 
-#### 🎍 Welcome to my hub 👨‍💻
+### 🎍 Welcome to my hub 👨‍💻
 
 - 👨‍🎓 22 year old Information Technology Engineering Undergrad student.
 - 👨‍💻 ***#SelfTaught*** Developer.
@@ -21,10 +21,9 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
 
-<details>
-  <summary><b>📊 Github Stats</b></summary>
+
+### 📊 Github Stats
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patilshreyas&count_private=true&show_icons=true&include_all_commits=true" alt="Shreyas Patil | Stats" />
-</details>
 
 ---
 
