@@ -8,6 +8,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 ### 🎍 Welcome to my hub 👨‍💻
 
 - 👦 22-year-old ***Google Developer Expert @Android***.
+- 💼 Android Developer @ [Paytm Insider](https://insider.in)
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
