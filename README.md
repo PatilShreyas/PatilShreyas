@@ -8,7 +8,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 ### 🎍 Welcome to my hub 👨‍💻
 
 - 👦 Google Developer Expert @Android
-- 💼 Android Developer @ [Paytm Insider](https://insider.in)
+- 💼 Android Developer @ [Paytm](https://paytm.com).
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
