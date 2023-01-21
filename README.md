@@ -10,7 +10,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with K
 - 👦 Google Developer Expert @Android
 - 💼 Android Developer @ [Paytm](https://paytm.com).
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 👨‍💻 I develop Mobile, Web, Backend apps.
+- 👨‍💻 I develop Mobile, Web apps and can also develop Backend server for apps.
 - ✍️ Write blogs on [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev).
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
