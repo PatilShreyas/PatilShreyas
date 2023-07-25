@@ -1,14 +1,11 @@
 # Hi there👋! I'm [Shreyas](https://shreyaspatil.dev) 🙋‍♂️
 
-![Profile views](https://gpvc.arturio.dev/PatilShreyas)
-
-
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
 
 ### 🎍 Welcome to my hub 👨‍💻
 
 - 👦 Google Developer Expert @Android
-- 💼 Android Developer @ [Paytm](https://paytm.com).
+- 💼 Sr. Android Developer @ [Paytm](https://paytm.com).
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 👨‍💻 I develop Mobile, Web apps and can also develop Backend server for apps.
 - ✍️ Write blogs on [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev).
