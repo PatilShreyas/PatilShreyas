@@ -1,16 +1,14 @@
 # Hi there👋! I'm [Shreyas](https://shreyaspatil.dev) 🙋‍♂️
 
-_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff with Kotlin_ 🥽.
+_**LATEST UPDATE:**_ _Exploring Kotlin Multiplatform and Compose Multiplatform_ 🥽.
 
 ### 🎍 Welcome to my hub 👨‍💻
 
 - 👦 Google Developer Expert @Android
 - 💼 Sr. Android Developer @ [Paytm](https://paytm.com).
-- 👨‍💻 ***#SelfTaught*** Developer.
-- 👨‍💻 I develop Mobile, Web apps and can also develop Backend server for apps.
+- 👨‍💻 I develop Mobile, Web apps and Backend server.
 - ✍️ Write blogs on [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev).
 - Loves 🎵 and 🎹.
-- Proud 🇮🇳.
 
 
 ### 📊 Github Stats
