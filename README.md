@@ -5,7 +5,7 @@ _**LATEST UPDATE:**_ _Exploring Kotlin Multiplatform and Compose Multiplatform_ 
 ### 🎍 Welcome to my hub 👨‍💻
 
 - 👦 Google Developer Expert @Android
-- 💼 Sr. Android Developer @ [Paytm](https://paytm.com).
+- 💼 Sr. Android Engineer [@Deliveroo](https://github.com/deliveroo). Ex - [@Paytm](https://paytm.com), [@ScaleReal](https://scalereal.com).
 - 👨‍💻 I develop Mobile, Web apps and Backend server.
 - ✍️ Write blogs on [blog.shreyaspatil.dev](https://blog.shreyaspatil.dev).
 - Loves 🎵 and 🎹.
