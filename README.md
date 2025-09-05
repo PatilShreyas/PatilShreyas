@@ -1,6 +1,6 @@
 # Hi there👋! I'm [Shreyas](https://shreyaspatil.dev) 🙋‍♂️
 
-_**LATEST UPDATE:**_ _Exploring Kotlin Multiplatform and Compose Multiplatform_ 🥽.
+_**LATEST UPDATE:**_ _Exploring AI tools, Kotlin Multiplatform and Compose Multiplatform_ 🥽.
 
 ### 🎍 Welcome to my hub 👨‍💻
 
